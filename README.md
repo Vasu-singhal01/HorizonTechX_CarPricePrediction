@@ -78,4 +78,11 @@ Kaggle: https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionuse
 - Diesel and automatic cars tend to have higher resale value
 
 ## 👤 Author
-Vasu Singhal | Bennett University | Horizon TechX Data Science Intern
+
+**Vasu Singhal** — B.Tech CSE (Data Science) — Bennett University — Horizon TechX Data Science Intern
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-singhal-46659a310)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasu-singhal01)
+
+## 📄 License
+MIT License — free to use and modify.
